@@ -1,0 +1,9 @@
+[package]
+name = "runner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+jni = { version = "0.21.1", features = ["invocation"] }
+anyhow = "1.0.93"
+libc = "0.2"

@@ -1,0 +1,11 @@
+# Rust
+/jni-rust-java-example/target/
+/jni-rust-java-example/Cargo.lock
+
+# Java
+/jni-rust-java-example/*.class
+/jni-rust-java-example/java/out/
+
+# OS
+/jni-rust-java-example/.DS_Store
+
